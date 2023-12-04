@@ -1,6 +1,6 @@
 {
   "name": "shadow",
-  "description": "ahadow-md",
+  "description": "shadow-md",
   "keywords": [],
   "stack": "container",
   "env": {
@@ -27,7 +27,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "SHADOW-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "SHADOW-MD;INRL;https://i.imgur.com/1spisxt.jpeg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -37,7 +37,7 @@
     "AUDIO_DATA": {
       "description": "audio metadata",
       "required": true,
-      "value": "ʏᴏᴜ ᴄᴀɴᴛ ᴛᴀᴋᴇ ᴛʜɪꜱ ꜱᴛɪᴄᴋᴇʀ;ʙᴀᴋᴀ;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "ʏᴏᴜ ᴄᴀɴᴛ ᴛᴀᴋᴇ ᴛʜɪꜱ ꜱᴛɪᴄᴋᴇʀ;ʙᴀᴋᴀ;https://i.imgur.com/1spisxt.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker data",
