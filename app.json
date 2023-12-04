@@ -27,7 +27,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "SHADOW-MD;INRL;https://i.imgur.com/1spisxt.jpeg"
+      "value": "SHADOW-MD;SHADOW;https://i.imgur.com/1spisxt.jpeg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
