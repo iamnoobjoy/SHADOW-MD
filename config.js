@@ -41,7 +41,7 @@ module.exports = {
     BLOCK_CHAT : process.env.BLOCK_CHAT || "null",
     BOT_PRESENCE : process.env.BOT_PRESENCE || "unavailable",
     AUDIO_DATA : process.env.AUDIO_DATA || "SHADOW-MD;SHADOW;https://i.imgur.com/1spisxt.jpeg",
-    STICKER_DATA : process.env.STICKER_DATA || "DONT TAKE THIS BAKA;SHADOW",
+    STICKER_DATA : process.env.STICKER_DATA || "SHADOW-MD;SHADOW",
     BRAINSHOP: process.env.BRAINSHOP || '172372,nbjE0YAlyw3cpoMl',
     SUDO : process.env.SUDO || "null",
     RMBG_KEY: process.env.RMBG_KEY,
