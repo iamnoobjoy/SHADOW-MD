@@ -1,5 +1,5 @@
 {
-  "name": "inrl-bot-md",
+  "name": "shadow-md",
   "version": "4.0.5",
   "description": "WhatsApp bot made with nodejs and baileys",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inrl-official/inrl-bot-md.git"
+    "url": "git+https://github.com/JoyBoySer/SHADOW-MD.git"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
