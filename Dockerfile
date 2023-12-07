@@ -1,4 +1,4 @@
-FROM quay.io/shadowbot/shadow:latest
+FROM quay.io/joyboyser/shadowmd
 RUN git clone https://github.com/JoyBoySer/SHADOW-MD /root/shadow
 WORKDIR /root/shadow/
 RUN yarn install --network-concurrency 1
