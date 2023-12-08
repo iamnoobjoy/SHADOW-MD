@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     commands,
     send_alive,
     send_menu,
