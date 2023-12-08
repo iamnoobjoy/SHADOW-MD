@@ -4,8 +4,8 @@
   "description": "WhatsApp bot made with nodejs and baileys",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name inrl",
-    "stop": "pm2 stop inrl"
+    "start": "pm2 start . --attach --name shadow",
+    "stop": "pm2 stop shadow"
   },
   "repository": {
     "type": "git",
