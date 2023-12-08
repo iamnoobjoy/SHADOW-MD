@@ -1,7 +1,7 @@
 # SHADOW-MD
 TEST BOT BY ME <br>
 
-***SECTION ID ['SECTION ID'](https://bit.ly/46IxUyE)***
+***SECTION ID [SECCTION ID](https://bit.ly/m/SHADOW-MD)***
 
   ***SECCTION ID [`SECCTION ID`](https://replit.com/@joyboysar/SHADOW-MD-QR-2?v=1)***
 
