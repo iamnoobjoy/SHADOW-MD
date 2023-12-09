@@ -7,7 +7,7 @@ let lang = getLang()
 const {
     BASE_URL
 } = require('../config');
-inrl({
+shadow({
     pattern: "ttp",
     type: "misc",
     desc: lang.TTP.DESC
@@ -21,7 +21,7 @@ inrl({
         }
     });
 });
-inrl({
+shadow({
     pattern: "attp",
     type: "misc",
     desc: lang.TTP.DESC
