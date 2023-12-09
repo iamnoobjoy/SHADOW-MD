@@ -1,5 +1,5 @@
 const {
-        inrl,
+        shadow,
         GenListMessage
 } = require('../lib');
 const axios = require('axios');
