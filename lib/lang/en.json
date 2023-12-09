@@ -392,7 +392,7 @@
                 },
                 "B_INFO":{
                     "DESC":"change info of bot",
-                    "METHODE": "_Example:- {} get_\n_{} inrl;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
+                    "METHODE": "_Example:- {} get_\n_{} shadow;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
                 },
                 "SUDO":{
                     "DESC":"give sudo action for specific user",
