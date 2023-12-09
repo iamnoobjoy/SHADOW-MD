@@ -15,7 +15,7 @@ const Config = require('../config')
 const axios = require("axios");
 const fs = require("fs");
 const { listenerCount } = require('process');
-inrl({
+shadow({
         pattern: 'restart ?(.*)',
         desc: lang.RESTART.DESC,
         react: "🥱",
@@ -25,7 +25,7 @@ inrl({
         await message.reply(lang.RESTART.INFO)
         exec('pm2 restart all')
 })
-inrl({
+shadow({
         pattern: 'plugin ?(.*)',
         desc: lang.EXTERNAL_PLUGIN.DESC,
         react: "🦥",
@@ -77,7 +77,7 @@ inrl({
                 }
         }
 })
-inrl({
+shadow({
         pattern: 'remove ?(.*)',
         desc: lang.EXTERNAL_PLUGIN.REMOVE_DESC,
         react: "😶",
