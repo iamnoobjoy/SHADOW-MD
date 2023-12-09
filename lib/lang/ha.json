@@ -371,7 +371,7 @@
                 },
                 "A_DATA":{
                     "DESC":"canja bayanan sauti",
-                    "METHODE": "_Misali:- {} samu_\n_{} inrl;md;https://example.jpeg_"
+                    "METHODE": "_Misali:- {} samu_\n_{} shadow;md;https://example.jpeg_"
                 },
                 "BIO":{
                     "DESC":"canja bio na kowane minti daya",
