@@ -1,5 +1,5 @@
 const {
-       inrl
+       shadow
 } = require('../lib');
 const { fromBuffer } = require('file-type');
 
