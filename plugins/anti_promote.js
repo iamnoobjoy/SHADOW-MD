@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     antiPromote,
     getPromote
 } = require('../lib');
