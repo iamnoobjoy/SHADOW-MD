@@ -3,6 +3,11 @@
 <p align="center">  
   <a href="https://bit.ly/m/SHADOW-MD">
     <img alt="X-2.0" height="300" src="https://i.imgur.com/EBmqEoB.jpeg">
+    '''global.Owner = ["JoyBoySer"]; 
+global.OwnerNumber = ["+918714504817"];
+global.ownertag = ["#joyboy"];
+global.BotName = "SHADOW-MD";
+```
     <h1 align="center">SHADOW-MD</h1>
   </a>
 
