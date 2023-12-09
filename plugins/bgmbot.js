@@ -2,7 +2,7 @@ const bgm = require('../media/bgm.json');
 const { shadow } = require('../lib');
 const { BGMBOT } = require('../config');
 
-inrl({
+shadow({
         on: "text",
         fromMe: 'public'
 }, async (m, match) => {
