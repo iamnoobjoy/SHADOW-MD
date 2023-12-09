@@ -24,8 +24,11 @@
 <a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
 # DEPLOYING METHODE
+
+ #### Deploy To Heruko
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+  
 -----
 #### Deploy To Railway
 
