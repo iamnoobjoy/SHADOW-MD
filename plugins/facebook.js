@@ -7,7 +7,7 @@ const {
     BASE_URL
 } = require('../config');
 
-inrl({
+shadow({
     pattern: 'fb ? (.*)',
     desc: 'download medias frok Facebook',
     react: "⬇️",
