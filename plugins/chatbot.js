@@ -1,5 +1,5 @@
 const {
-        inrl,
+        shadow,
         getJson
 } = require('../lib');
 const {
