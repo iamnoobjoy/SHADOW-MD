@@ -6,7 +6,7 @@ const {
 } = require('../lib');
 let lang = getLang()
 
-inrl({
+shadow({
      pattern: 'fancy ?(.*)',
      type: 'utility',
      desc: lang.FANCY.DESC
