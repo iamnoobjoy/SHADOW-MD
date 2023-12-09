@@ -1,6 +1,6 @@
 # SHADOW-MD WHATSAPP BOT
 <center>
-
+<div> 
 - [SET UP](#setup)
 - [DEPLOYING METHODE](#deployimgmethode)
 - [OWNER](#owner)
@@ -15,7 +15,7 @@
   
 
    
-<a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
 ## DEPLOYING METHODE
   
