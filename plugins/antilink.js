@@ -7,7 +7,7 @@ const {
 const {ADMIN_SUDO_ACCESS} = require('../config');
 const actions = ['kick','warn','null']
 
-inrl({
+shadow({
     pattern: 'antilink',
     desc: 'remove users who send links',
     react: "🖕",
