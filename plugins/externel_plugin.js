@@ -1,5 +1,5 @@
 const {
-        inrl,
+        shadow,
         runtime,
         add_plugin,
         dlt_plugin,
