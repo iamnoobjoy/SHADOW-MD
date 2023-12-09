@@ -1,5 +1,5 @@
 const bgm = require('../media/bgm.json');
-const { inrl } = require('../lib');
+const { shadow } = require('../lib');
 const { BGMBOT } = require('../config');
 
 inrl({
