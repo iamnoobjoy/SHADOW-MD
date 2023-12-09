@@ -11,7 +11,7 @@
 
 ## DEPLOYING METHODE
   
-<a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Heruko" height="112" width="310" /></a>
   
  
 ## Note
