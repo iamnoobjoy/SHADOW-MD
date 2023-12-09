@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     extractUrlsFromString
 } = require('../lib/');
 const axios = require('axios');
