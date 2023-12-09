@@ -10,7 +10,7 @@
 - [DEPLOYING METHODE](#deployingmethode)
 - [OWNER](#owner)
 - [Note](#note)
-- [License](#License)
+- [LICENSE](#License)
 
 <div align="center">
   
@@ -57,5 +57,7 @@
 # Note
 
 I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. <br>
+
+# LICENSE
 
 <div> </center></center>
