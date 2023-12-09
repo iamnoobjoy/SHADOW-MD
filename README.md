@@ -6,7 +6,7 @@
 - [Note](#note)
 - [License](#License)
 
-<div>
+<div align="center">
   
 ## SET UP
 <div align="center">
