@@ -8,7 +8,7 @@ const {
         CHATBOT_GRP,
         PREFIX
 } = require('../config');
-inrl({
+shadow({
         on: "text"
 }, async (m, match) => {
         if(m.client.isCreator) return;
