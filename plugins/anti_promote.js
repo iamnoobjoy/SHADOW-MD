@@ -4,7 +4,7 @@ const {
     getPromote
 } = require('../lib');
 
-inrl({
+shadow({
     pattern: 'antipromote',
     desc: 'demote both promoted persone and promoter',
     type: "manage",
