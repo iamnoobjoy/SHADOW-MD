@@ -1,5 +1,5 @@
 const {
-	inrl,
+	shadow,
 	elevenlabs
 } = require('../lib');
 inrl({
