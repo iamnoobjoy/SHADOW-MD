@@ -8,7 +8,7 @@ const {
     getVar
 } = require('../lib')
 let lang = getLang()
-inrl({
+shadow({
     pattern: 'list',
     desc: lang.LIST.DESC,
     react: "💯",
@@ -18,7 +18,7 @@ inrl({
     return await message.send(c);
 });
 
-inrl({
+shadow({
     pattern: "menu",
     desc: lang.MENU.DESC,
     react: "📰",
@@ -27,7 +27,7 @@ inrl({
     return await send_menu(message, await getVar('TIME_ZONE',message.conn.user.number));
 });
 
-inrl({
+shadow({
     pattern: "alive",
     desc: lang.ALIVE.DESC,
     react: "🥰",
@@ -43,7 +43,7 @@ inrl({
     return await send_alive(message, await getVar('ALIVE_DATA,TIME_ZONE',message.conn.user.number));
 });
 
-inrl({
+shadow({
     pattern: "cmd",
     react: "🆗",
     type: 'info'
