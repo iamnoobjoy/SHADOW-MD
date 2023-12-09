@@ -1,15 +1,13 @@
 # SHADOW-MD WHATSAPP BOT
 
-
-- [DEPLOYING METHODE](#deployimg methode)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [SET UP](#setup)
+- [DEPLOYING METHODE](#deployimgmethode)
+- [OWNER](#owner)
 - [Note](#note)
 - [License](#License)
 
 
-
+## SET UP
 <div align="center">
 <a href="https://github.com/JoyBoySer/SHADOW-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
@@ -22,8 +20,11 @@
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
- 
-### Note
+## OWNER
+
+
+
+## Note
 
 I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. <br>
 
