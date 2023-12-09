@@ -4,7 +4,7 @@ const {
     getDemote
 } = require('../lib');
 
-inrl({
+shadow({
     pattern: 'antidemote',
     desc: 'demote actor and re-promote demoted person',
     type: "manage",
