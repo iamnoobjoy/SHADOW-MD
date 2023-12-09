@@ -1,4 +1,4 @@
-const { inrl, config, getJson, getBuffer } = require('../lib')
+const { shadow, config, getJson, getBuffer } = require('../lib')
 
 inrl(
 	{
