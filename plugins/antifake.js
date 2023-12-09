@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     setAntiFake,
     removeAntiFake,
     getAntiFake,
