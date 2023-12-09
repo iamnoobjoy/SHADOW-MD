@@ -2,7 +2,7 @@ const {
 	shadow,
 	elevenlabs
 } = require('../lib');
-inrl({
+shadow({
 	pattern: "aitts",
 	type: "eva",
 	fromMe: true,
