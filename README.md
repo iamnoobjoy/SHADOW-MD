@@ -11,8 +11,8 @@
 
 ## DEPLOYING METHODE
   
-<a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Heruko" height="112" width="310" /></a>
-  
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+
  
 ## Note
 
