@@ -11,7 +11,7 @@ let lang = getLang()
 const {ADMIN_SUDO_ACCESS} = require('../config');
 
 
-inrl({
+shadow({
     pattern: 'promote ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -32,7 +32,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message,
         });
 });
-inrl({
+shadow({
     pattern: 'demote ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -53,7 +53,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message,
         });
 });
-inrl({
+shadow({
     pattern: 'kick ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -93,7 +93,7 @@ if (!admin && !message.client.isCreator) return;
             return await message.reply('all group Participants will been kicked!')
         }
 });
-inrl({
+shadow({
     pattern: 'add ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -156,7 +156,7 @@ if (!admin && !message.client.isCreator) return;
         }
     } 
 });
-inrl({
+shadow({
     pattern: 'gpp ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -173,7 +173,7 @@ if (!admin && !message.client.isCreator) return;
         await message.client.updateProfilePicture(message.jid, download);
         return message.reply(lang.GROUP.GPP.INFO);
 })
-inrl({
+shadow({
     pattern: 'fullgpp ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -189,7 +189,7 @@ if (!admin && !message.client.isCreator) return;
         await message.updateProfilePicture(message.jid, download);
         return message.reply(lang.GROUP.FULL_GPP.INFO);
 });
-inrl({
+shadow({
     pattern: 'gname ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -213,7 +213,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         })
 });
-inrl({
+shadow({
     pattern: 'gdesc ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -237,7 +237,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         })
 });
-inrl({
+shadow({
     pattern: 'mute ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -255,7 +255,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'unmute ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -273,7 +273,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'lock ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -291,7 +291,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'unlock ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -309,7 +309,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'left ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -318,7 +318,7 @@ inrl({
 }, async (message, match) => {
         await message.client.groupLeave(message.jid)
 });
-inrl({
+shadow({
     pattern: 'invite ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -336,7 +336,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'revoke ?(.*)',
     type: 'group',
     onlyGroup: true,
@@ -354,7 +354,7 @@ if (!admin && !message.client.isCreator) return;
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'join ?(.*)',
     type: 'owner',
     fromMe: true,
@@ -374,7 +374,7 @@ inrl({
             quoted: message
         });
 });
-inrl({
+shadow({
     pattern: 'getinfo ?(.*)',
     type: 'group',
     desc : lang.GROUP.GET_INFO.DESC
