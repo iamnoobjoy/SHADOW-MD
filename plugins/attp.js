@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     getBuffer,
     getLang
 } = require('../lib');
