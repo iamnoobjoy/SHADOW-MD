@@ -24,7 +24,7 @@ function secondsToDhms(seconds) {
         return dDisplay + hDisplay + mDisplay + sDisplay;
 }
 const {
-        inrl,
+        shadow,
         GenListMessage,
         getLang
 } = require('../lib');
