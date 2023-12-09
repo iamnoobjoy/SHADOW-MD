@@ -8,7 +8,7 @@ const {
 const {ADMIN_SUDO_ACCESS} = require('../config');
 const actions = ['kick','warn','null']
 
-inrl({
+shadow({
     pattern: 'antiword',
     desc: 'remove users who send antiwords',
     react: "🖕",
