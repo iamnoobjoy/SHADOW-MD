@@ -1,6 +1,10 @@
 <p align="center">
 <a href="https://github.com/JoyBoySer"><img title="Author" src="https://img.shields.io/badge/CREATOR-ᴊᴏʏ ʙᴏʏ ꜱᴇʀ-black.svg?style=for-the-badge&logo=github"></a>
-
+<p align="center">  
+  <a href="https://bit.ly/m/SHADOW-MD">
+    <img alt="X-2.0" height="300" src="https://i.imgur.com/EBmqEoB.jpeg">
+    <h1 align="center">SHADOW-MD</h1>
+  </a>
 
 - [SET UP](#setup)
 - [DEPLOYING METHODE](#deployimgmethode)
