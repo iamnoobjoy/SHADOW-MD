@@ -371,7 +371,7 @@
                 },
                 "A_DATA":{
                     "DESC":"ऑडियो डेटा बदलें",
-                    "METHODE": "_उदाहरण:- {} get_\n_{} inrl;md;https://example.jpeg_"
+                    "METHODE": "_उदाहरण:- {} get_\n_{} shadow;md;https://example.jpeg_"
                 },
                 "BIO":{
                     "DESC":"प्रत्येक मिनट के लिए बायो बदलें",
