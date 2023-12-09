@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     antiDromote,
     getDemote
 } = require('../lib');
