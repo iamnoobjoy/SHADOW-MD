@@ -388,7 +388,7 @@
                 },
                 "S_DATA":{
                     "DESC":"ganti info stiker",
-                    "METHODE": "_Contoh:- {} get_\n_{} inrl;md_"
+                    "METHODE": "_Contoh:- {} get_\n_{} shadow;md_"
                 },
                 "B_INFO":{
                     "DESC":"ubah info bot",
