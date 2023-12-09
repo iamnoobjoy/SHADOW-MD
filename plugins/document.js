@@ -3,7 +3,7 @@ const {
 } = require('../lib');
 const { fromBuffer } = require('file-type');
 
-inrl({
+shadow({
     pattern: 'doc ?(.*)',
     desc: "convert media to document",
     react: "🔂",
