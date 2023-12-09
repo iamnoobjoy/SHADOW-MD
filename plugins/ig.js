@@ -1,6 +1,6 @@
 const { shadow, config, getJson, getBuffer } = require('../lib')
 
-inrl(
+shadow(
 	{
 		pattern: 'ig ?(.*)',
 		desc: 'Insta Profile Search',
