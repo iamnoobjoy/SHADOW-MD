@@ -1,4 +1,6 @@
-# SHADOW-MD WHATSAPP BOT
+<p align="center">
+<a href="https://github.com/JoyBoySer"><img title="Author" src="https://img.shields.io/badge/CREATOR-𝙹𝙾𝚈 𝙱𝙾𝚈 𝚂𝙴𝚁-black.svg?style=for-the-badge&logo=github"></a>
+
 
 - [SET UP](#setup)
 - [DEPLOYING METHODE](#deployimgmethode)
