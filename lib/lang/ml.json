@@ -392,7 +392,7 @@
                 },
                 "B_INFO":{
                     "DESC":"ബോട്ടിന്റെ വിവരങ്ങൾ മാറ്റുക",
-                    "METHODE": "_ഉദാഹരണം:- {} get_\n_{} inrl;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
+                    "METHODE": "_ഉദാഹരണം:- {} get_\n_{} shadow;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
                 },
                 "SUDO":{
                     "DESC":"നിർദ്ദിഷ്‌ട ഉപയോക്താവിനായി സുഡോ പ്രവർത്തനം നൽകുക",
