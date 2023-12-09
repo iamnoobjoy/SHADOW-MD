@@ -6,7 +6,7 @@ const axios = require('axios');
 const {
         BASE_URL
 } = require('../config');
-inrl({
+shadow({
         pattern: 'apk',
         type: "downloader",
         desc: "download applications from aptoid",
@@ -25,7 +25,7 @@ inrl({
                 return message.send('_Time Out_');
         }
 });
-inrl({
+shadow({
         on: "text"
 }, async (message, match) => {
         if (!message.quoted?.fromMe) return;
