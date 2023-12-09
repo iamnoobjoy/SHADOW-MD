@@ -392,7 +392,7 @@
                 },
                 "B_INFO":{
                     "DESC":"බොට්හි තොරතුරු වෙනස් කරන්න",
-                    "METHODE": "_උදාහරණය:- {} get_\n_{} inrl;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
+                    "METHODE": "_උදාහරණය:- {} get_\n_{} shadow;md;https://emage.jpeg;chat.whatsapp.com/74328kdm_"
                 },
                 "SUDO":{
                     "DESC":"නිශ්චිත පරිශීලකයෙකු සඳහා sudo ක්‍රියාවක් ලබා දෙන්න",
