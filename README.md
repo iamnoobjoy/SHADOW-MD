@@ -24,7 +24,7 @@
 <a href="https://bit.ly/m/SHADOW-MD"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br></div>
 
 # DEPLOYING METHODE
-
+----
  #### Deploy To Heruko
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
@@ -32,18 +32,18 @@
 -----
 #### Deploy To Railway
 
-<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href=""><img title="SHADOW Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
 #### Deploy To Koyeb
 
-<a href="https://inrl-web-fkns.onrender.com/info/deploy/koyeb"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+<a href=""><img title="SHADOW Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/inrl-official/INRL-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com/github/JoyBoySer/SHADOW-MD"><img title="SHADW-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
 # OWNER
