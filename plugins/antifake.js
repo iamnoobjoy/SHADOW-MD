@@ -7,7 +7,7 @@ const {
 } = require('../lib')
 const {ADMIN_SUDO_ACCESS} = require('../config');
 
-inrl({
+shadow({
     pattern: 'antifake',
     desc: 'remove fake numbers',
     react: "🖕",
