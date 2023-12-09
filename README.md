@@ -1,13 +1,12 @@
 # SHADOW-MD WHATSAPP BOT
-<center>
-<div> 
+
 - [SET UP](#setup)
 - [DEPLOYING METHODE](#deployimgmethode)
 - [OWNER](#owner)
 - [Note](#note)
 - [License](#License)
 
-
+<center> 
 ## SET UP
 <div align="center">
 <a href="https://github.com/JoyBoySer/SHADOW-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
@@ -29,4 +28,4 @@
 
 I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. <br>
 
-<div> </center>
+<div> </center></center>
