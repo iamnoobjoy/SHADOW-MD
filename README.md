@@ -30,13 +30,13 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
   
 -----
-#### Deploy To Railway
+#### Deploy To Railway ❌
 
 <a href=""><img title="SHADOW Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
-#### Deploy To Koyeb
+#### Deploy To Koyeb ❌
 
 <a href=""><img title="SHADOW Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
