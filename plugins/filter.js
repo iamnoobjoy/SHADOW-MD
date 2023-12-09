@@ -8,7 +8,7 @@ const {
 let lang = getLang()
 
 const Config = require("../config");
-inrl({
+shadow({
     pattern: 'filter',
     desc: lang.FILTERS.DESC,
     react: "🌝",
@@ -33,7 +33,7 @@ inrl({
 });
 
 
-inrl({
+shadow({
     pattern: 'stop',
     desc: "remove filters fromg group",
     react: "😫",
