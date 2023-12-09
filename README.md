@@ -60,4 +60,6 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
 
 # LICENSE
 
+
+The SHADOW-MD is made available under the [GPL-3 license](https://github.com/JoyBoySer/SHADOW-MD/blob/main/LICENCE).
 <div> </center></center>
