@@ -1,5 +1,5 @@
 const {
-    inrl,
+    shadow,
     addFilterV2,
     getFilterV2,
     removeFilter,
