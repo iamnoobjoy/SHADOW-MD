@@ -1,5 +1,5 @@
 const { shadow, GPT } = require('../lib/');
-inrl({
+shadow({
     pattern: "gpt",
     desc: 'get open ai chatgpt response',
     type: "eva",
