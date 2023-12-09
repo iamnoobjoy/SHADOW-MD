@@ -388,7 +388,7 @@
                 },
                 "S_DATA":{
                     "DESC":"canja bayanin siti",
-                    "METHODE": "_Misali:- {} samu_\n_{} inrl;md_"
+                    "METHODE": "_Misali:- {} samu_\n_{} shadow;md_"
                 },
                 "B_INFO":{
                     "DESC":"canja bayanin bot",
