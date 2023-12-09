@@ -7,7 +7,7 @@ const {
 } = require("../lib")
 let lang = getLang()
 
-inrl({
+shadow({
     pattern: 'setcmd',
     desc: lang.MEDIA_CMD.SET_DESC,
     react: "😛",
@@ -20,7 +20,7 @@ inrl({
     await setCmd(message.quoted.msg.fileSha256.join(""), match)
     return await message.reply(lang.BASE.SUCCESS)
 });
-inrl({
+shadow({
     pattern: 'dltcmd',
     desc: lang.MEDIA_CMD.DEL_DESC,
     react: "💥",
@@ -31,7 +31,7 @@ inrl({
     await DeleteCmd(match)
     return await message.reply(lang.BASE.SUCCESS)
 });
-inrl({
+shadow({
     pattern: 'getcmd',
     desc: lang.MEDIA_CMD.GET_DESC,
     react: "💥",
