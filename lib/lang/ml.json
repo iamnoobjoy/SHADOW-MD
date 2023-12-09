@@ -371,7 +371,7 @@
                 },
                 "A_DATA":{
                     "DESC":"ഓഡിയോ ഡാറ്റ മാറ്റുക",
-                    "METHODE": "_ഉദാഹരണം:- {} get_\n_{} inrl;md;https://example.jpeg_"
+                    "METHODE": "_ഉദാഹരണം:- {} get_\n_{} shadow;md;https://example.jpeg_"
                 },
                 "BIO":{
                     "DESC":"ഓരോ മിനിറ്റിലും ബയോ മാറ്റുക",
