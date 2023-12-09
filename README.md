@@ -26,7 +26,23 @@
 # DEPLOYING METHODE
   
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+-----
+#### Deploy To Railway
 
+<a href="https://inrl-web-fkns.onrender.com/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+
+
+---
+#### Deploy To Koyeb
+
+<a href="https://inrl-web-fkns.onrender.com/info/deploy/koyeb"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+
+---
+#### Deploy To Replit
+
+<a href="https://replit.com/github/inrl-official/INRL-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
+---
 # OWNER
 <a href='https://www.instagram.com/joy_boy_ser_' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
 <a href='https://wa.me/+918714504817' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
