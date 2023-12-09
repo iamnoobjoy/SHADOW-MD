@@ -28,12 +28,6 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/JoyBoySer/SHADOW-MD.git"><img title="SHADOW-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 # OWNER
-''' js
-global.Owner = ["JoyBoySer"]; 
-global.OwnerNumber = ["+918714504817"];
-global.ownertag = ["Joyboyser"];
-global.BotName = "SHADOW-MD"; '''
-
 <a href='https://www.instagram.com/joy_boy_ser_' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
 <a href='wa.me/918714504817' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://chat.whatsapp.com/KXje6Iq1XHY5JVdOnm0jKG' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
