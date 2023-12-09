@@ -30,14 +30,14 @@ const {
 } = require('../lib');
 let lang = getLang()
 
-inrl({
+shadow({
         pattern: 'shutdown$',
         fromMe: true,
         dontAddCommandList: true,
         use: 'owner'
 }, (async (message) => {
         if (!process.env.HEROKU_API_KEY) {
-                return await pm2.stop("inrl");
+                return await pm2.stop("shadow");
         } else if (process.env.HEROKU_API_KEY) {
                 await heroku.get('/apps/' + process.env.HEROKU_APP_NAME + '/formation').then(async (formation) => {
                         forID = formation[0].id;
@@ -52,7 +52,7 @@ inrl({
                 });
         } else return await message.send("_This is a heroku command, but this bot is not running on heroku!_");
 }));
-inrl({
+shadow({
         pattern: 'setvar ?(.*)',
         fromMe: true,
         desc: 'Set heroku config var',
@@ -60,7 +60,7 @@ inrl({
 }, async (message, match) => {
         if (!match) return await message.send('```Either Key or Value is missing```');
         const [key, value] = match.split(':');
-        if (!key || !value) return await message.send('setvar STICKER_DATA: inrl;md');
+        if (!key || !value) return await message.send('setvar STICKER_DATA: shadow;md');
         await heroku.patch('/apps/' + process.env.HEROKU_APP_NAME + '/config-vars', {
                 body: {
                         [key.trim().toUpperCase()]: match.replace(key,'').replace(':','').trim()
@@ -71,7 +71,7 @@ inrl({
                 await message.send(`HEROKU : ${error.body.message}`)
         })
 })
-inrl({
+shadow({
         pattern: 'delvar ?(.*)',
         fromMe: true,
         desc: 'Delete heroku config var',
