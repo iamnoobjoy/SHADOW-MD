@@ -7,7 +7,7 @@
   </a>
 
 - [SET UP](#setup)
-- [DEPLOYING METHODE](#deployimgmethode)
+- [DEPLOYING METHODE](#deployingmethode)
 - [OWNER](#owner)
 - [Note](#note)
 - [License](#License)
